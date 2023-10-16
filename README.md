@@ -16,3 +16,8 @@ Run `npm run storybook` to launch the local webserver.
 
 ## Build
 The project is using [rollup](https://rollupjs.org/introduction/) for build process
+
+Execute `npm run build` to run build process and create dist directory in the root of the project 
+
+## Configuration
+We use this url `https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe#building-your-library` for configure the project

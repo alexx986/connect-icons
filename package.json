@@ -1,5 +1,8 @@
 {
-  "name": "connect-icons",
+  "name": "@alexx986/connect-icons",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alexx986"
+  },
   "version": "1.0.0",
   "description": "Icon components",
   "main": "dist/cjs/index.js",
